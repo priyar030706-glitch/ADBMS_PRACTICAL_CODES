@@ -1,1 +1,5 @@
 
+BEGIN
+    SAVEPOINT s1;
+END;
+/
